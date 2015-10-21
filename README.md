@@ -58,9 +58,17 @@ Once a leecher has completely downloaded the file, they then become a seeder and
 * For unpopular files it can be almost impossible to completely download a file if the initial seeder is not present.  The less people there are, the more work the initial seeder has to put in since with less people, there will be less seeders besides the inital seeder.
 * Users are not anonymous and their IP addresses are exposed to any other leecher or seeder of a torrent that the user is participating in.  This could lead to problems if the user has an unsecure system.
 
-## BitTorrent Clients to Avoid
+## BitTorrent Clients
 
-### uTorrent
+### Recommended
+
+[Transmission](http://www.transmissionbt.com/)
+
+It's open source and simple to use.
+
+### Unrecommended
+
+[uTorrent](http://www.utorrent.com/)
 
 While uTorrent was once a good choice, it has since become ad filled and at one point forced users to install a program that mined bitcoins without their knowledge and gave them to the owners of uTorrent.
 
