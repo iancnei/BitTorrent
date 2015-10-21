@@ -62,9 +62,13 @@ Once a leecher has completely downloaded the file, they then become a seeder and
 
 ### Recommended
 
+[qBittorrent](http://www.qbittorrent.org/)
+
+It's an open source client made specifically as an alternative to uTorrent. It's easy to use.
+
 [Transmission](http://www.transmissionbt.com/)
 
-It's open source and simple to use.
+It's also open source and simple to use.
 
 ### Unrecommended
 
